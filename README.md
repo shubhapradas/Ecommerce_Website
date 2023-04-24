@@ -5,7 +5,7 @@ This website was created using HTML, CSS, and JavaScript. It features several pa
 
 To access the website, please visit https://shubhapradas.github.io/Ecommerce_Website/.<br>
 
-***Features:***<br>
+***Features:***
 
 User-friendly interface for easy navigation<br>
 Product categories  for finding specific items<br>
